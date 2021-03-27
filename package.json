@@ -1,0 +1,22 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@react-hook/throttle": "2.2.0",
+    "d3": "6.6.1",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "description": "A \"Hello World\" application with multiple pages that shows how Next.js routing works."
+}
